@@ -1,3 +1,53 @@
+# 私について
+
+ものづくりが好きなフリーランスエンジニア
+
+## 技術スタック
+
+●フロントエンド
+
+JavaScript / TypeScript / React / Next.js / Vue.js / jQuery 
+
+jest / playwright
+
+Storybook / MUI / styled-components / Tailwind CSS
+
+GraphQL
+
+●バックエンド
+
+Node.js / fastify / NestJs / GraphQL
+
+Ruby / Ruby on Rails / Rspec 
+
+Go / Echo / Gin / GraphQL
+
+PHP
+
+●データベース
+
+MySQL / PostgreSQL
+
+●サーバー
+Linux 
+
+AWS / EC2 / ECS(EC2・Fargate) / S3 / CloudFront / Route53 
+
+GCP / Firebase / App Engine / Cloud Run
+
+●ツール
+Docker
+
+Github Actions / CircleCI
+
+Terraform
+
+## 最新スキルシート
+
+https://docs.google.com/spreadsheets/d/1pPsCwB7Wk4GXSRCH2AnU8xlVousO6nJi/edit#gid=1250999772
+
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takeruun&show_icons=true&count_private=true" />
 </a>

@@ -56,6 +56,10 @@ https://docs.google.com/spreadsheets/d/1pPsCwB7Wk4GXSRCH2AnU8xlVousO6nJi/edit#gi
 
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takeruun&theme=github)
+
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takeruun&show_icons=true&count_private=true" />
 </a>

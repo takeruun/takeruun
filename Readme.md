@@ -2,6 +2,10 @@
 
 ものづくりが好きなフリーランスエンジニア
 
+## 最新スキルシート
+
+https://docs.google.com/spreadsheets/d/1pPsCwB7Wk4GXSRCH2AnU8xlVousO6nJi/edit#gid=1250999772
+
 ## これまでの主な取引企業
 
 - 利用ユーザ10万人越え、施工管理アプリ運営会社
@@ -63,9 +67,11 @@ Github Actions / CircleCI
 
 Terraform
 
-## 最新スキルシート
+Slack
 
-https://docs.google.com/spreadsheets/d/1pPsCwB7Wk4GXSRCH2AnU8xlVousO6nJi/edit#gid=1250999772
+Jira
+
+Mac OS / Windows / Linux
 
 <br/>
 

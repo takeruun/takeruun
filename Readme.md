@@ -31,7 +31,9 @@ https://docs.google.com/spreadsheets/d/1pPsCwB7Wk4GXSRCH2AnU8xlVousO6nJi/edit#gi
 
 ●フロントエンド
 
-JavaScript / TypeScript / React / Next.js / Vue.js / jQuery 
+JavaScript / TypeScript
+
+React / Next.js / Vue.js / jQuery 
 
 jest / playwright
 
@@ -41,19 +43,22 @@ GraphQL
 
 ●バックエンド
 
-Node.js / fastify / NestJs / GraphQL
+Node.js / fastify / NestJs
 
 Ruby / Ruby on Rails / Rspec 
 
-Go / Echo / Gin / GraphQL
+Go / Echo / Gin
 
-PHP
+PHP / Laravel / Symfony
+
+GraphQL
 
 ●データベース
 
 MySQL / PostgreSQL
 
 ●サーバー
+
 Linux 
 
 AWS / EC2 / ECS(EC2・Fargate) / S3 / CloudFront / Route53 
@@ -61,6 +66,7 @@ AWS / EC2 / ECS(EC2・Fargate) / S3 / CloudFront / Route53
 GCP / Firebase / App Engine / Cloud Run
 
 ●ツール
+
 Docker
 
 Github Actions / CircleCI
@@ -69,9 +75,7 @@ Terraform
 
 Slack
 
-Jira
-
-Mac OS / Windows / Linux
+Jira / Backlog
 
 <br/>
 

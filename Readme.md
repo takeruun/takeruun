@@ -19,6 +19,7 @@ https://docs.google.com/spreadsheets/d/1gPmtowVdVlnHiQYyKK1qwCDchLFFuy37/edit?us
 ## 作ってきたシステム
 個人の物も,現在も運用かつ進化し続けているシステムも含みます。
 
+- 総合プラットフォーム
 - ECサイト
 - 勤怠管理システム
 - 美容店管理システム

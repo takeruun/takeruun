@@ -4,7 +4,7 @@
 
 ## 最新スキルシート
 
-https://docs.google.com/spreadsheets/d/1gPmtowVdVlnHiQYyKK1qwCDchLFFuy37/edit?usp=sharing&ouid=112582306273022189429&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1oOJMB8uqEs4w6Xkk_vuP0sqJwE55J_oB/edit?usp=sharing&ouid=112582306273022189429&rtpof=true&sd=true
 
 ## これまでの主な取引企業
 
